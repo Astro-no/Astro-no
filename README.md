@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astro-no
 - 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning on pentesting and forensics tools.
+- 🌱 I’m currently working on automating stuff using Python and digital forensics.
 - 💞️ I’m looking to collaborate on gigs on the same field.
 - 📫 How to reach me is via the inbox or https://t.me/TB_4L
 
